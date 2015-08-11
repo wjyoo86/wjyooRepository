@@ -22,7 +22,7 @@ public class MainActivity extends ActionBarActivity {
         WebSettings webSettings = WebView01.getSettings();
         webSettings.setJavaScriptEnabled(true);
 
-        WebView01.loadUrl("http://www.google.com");
+        WebView01.loadUrl("http://www.naver.com");
     }
 
     @Override
